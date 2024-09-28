@@ -1,0 +1,30 @@
+body { color: #000000;
+    background-color: #D9F1C1;
+    }
+#wrapper { width: 80%;
+    margin: 0 auto 0 auto;  
+    }
+    header, nav, footer { font-family: Calibri, Arial, sans-serif;
+    }
+    #main { font-family: Garamond, "Times New Roman", serif;
+    }
+    footer { font-size: 0.75em;
+        text-align: center;
+    }
+    header{
+        text-align: center;
+    }
+    .div1{
+        height: auto;
+        width: auto;
+        border: 1px solid black;
+        border-radius: 30px;
+        background-color: #F0F9E6;
+        padding: 10px;
+    }
+    .div0{height: auto;
+        width: auto;
+        border: 2px solid black;
+    }
+
+  
